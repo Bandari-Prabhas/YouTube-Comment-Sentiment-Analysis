@@ -58,14 +58,14 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ## API Keys & Configuration
 This project requires you to supply your own API keys. In the code, placeholders have been used. You must replace these with your actual keys:
 
-Gemini API Key:
-Obtain this from Google Cloud Generative AI. Replace the placeholder "YOUR_GEMINI_API_KEY" in the code with your actual Gemini API key.
+### Gemini API Key:
+- Obtain this from Google Cloud Generative AI. Replace the placeholder "YOUR_GEMINI_API_KEY" in the code with your actual Gemini API key.
 
-YouTube Data API Key:
-Create a project in the Google Cloud Console, enable the YouTube Data API v3, and generate an API key. Replace "YOUR_YOUTUBE_API_KEY" in the code with your actual YouTube Data API key.
+### YouTube Data API Key:
+- Create a project in the Google Cloud Console, enable the YouTube Data API v3, and generate an API key. Replace "YOUR_YOUTUBE_API_KEY" in the code with your actual YouTube Data API key.
 
-How to Run the Program
-Start the Flask Application:
+## How to Run the Program
+###Start the Flask Application:
 With your virtual environment activated, run:
 
   ```
