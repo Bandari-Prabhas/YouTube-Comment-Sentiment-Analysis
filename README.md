@@ -70,7 +70,6 @@ With your virtual environment activated, run:
 
   ```
 python app.py
-
   ```
 The application will start on http://0.0.0.0:5002.
 
