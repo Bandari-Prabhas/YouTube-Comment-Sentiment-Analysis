@@ -51,9 +51,9 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 3. Install Dependencies
    Then install all required packages using the provided requirements.txt:
 
-   ```
-   pip install -r requirements.txt
-   ```
+  ```
+  pip install -r requirements.txt
+  ```
 
 ## API Keys & Configuration
 This project requires you to supply your own API keys. In the code, placeholders have been used. You must replace these with your actual keys:
@@ -80,10 +80,10 @@ Enter the YouTube video URL into the provided form.
 The application will fetch up to 200 comments, classify their sentiment, generate a summary, and display categorized insights.
 You can also download the analysis as a CSV file using the provided download link.
 
-### Interface 
+## Interface 
 <img width="493" alt="Screenshot 2025-02-28 at 9 33 44 PM" src="https://github.com/user-attachments/assets/b06f3466-ac06-469e-8047-55ce35fbff73" />
 
-
+##
 <img width="512" alt="Screenshot 2025-02-28 at 9 36 18 PM" src="https://github.com/user-attachments/assets/47bbb5d8-3063-4903-9bc9-6403d8eb4108" />
 
 ## How the Program Works
