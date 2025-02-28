@@ -34,7 +34,7 @@ A full-stack Python web application that fetches YouTube comments for a given vi
 ### 1. Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Humer-Shaik/YouTube-Comment-Sentiment-Analysis.git>
 cd youtube-comment-sentiment-analyzer
 
 
