@@ -1,6 +1,6 @@
 # YouTube Comment Sentiment Analyzer
 
-An advanced deep learning application that harvests YouTube comments for any given video and leverages state-of-the-art NLP techniques to extract nuanced sentiment insights. It not only generates comprehensive summaries of viewer feedback using powerful pre-trained transformer models and Google's Generative AI (Gemini) API but also employs a dedicated backup neural network for robust sentiment analysis. This innovative solution delivers deep, actionable insights into online discourse and audience engagement.
+An advanced deep learning application that harvests YouTube comments for any given video and leverages NLP techniques to extract nuanced sentiment insights. It not only generates comprehensive summaries of viewer feedback using powerful pre-trained transformer models and Google's Generative AI (Gemini) API but also employs a dedicated backup neural network for robust sentiment analysis. This innovative solution delivers deep, actionable insights into online discourse and audience engagement. With a accuracy of 88%
 
 
 ## Table of Contents
@@ -80,6 +80,12 @@ Enter the YouTube video URL into the provided form.
 The application will fetch up to 200 comments, classify their sentiment, generate a summary, and display categorized insights.
 You can also download the analysis as a CSV file using the provided download link.
 
+### Interface 
+<img width="493" alt="Screenshot 2025-02-28 at 9 33 44 PM" src="https://github.com/user-attachments/assets/b06f3466-ac06-469e-8047-55ce35fbff73" />
+
+
+<img width="512" alt="Screenshot 2025-02-28 at 9 36 18 PM" src="https://github.com/user-attachments/assets/47bbb5d8-3063-4903-9bc9-6403d8eb4108" />
+
 ## How the Program Works
 
 ### YouTube Comments:
@@ -128,6 +134,7 @@ You can also download the analysis as a CSV file using the provided download lin
 
 ### API Key Errors:
 - Ensure that your Gemini and YouTube Data API keys are valid and correctly set in the code.
+
 
 ### Dependency Issues:
 - If you encounter errors during dependency installation, verify that your virtual environment is active and that your pip is updated.
