@@ -144,7 +144,7 @@ You can also download the analysis as a CSV file using the provided download lin
 
 
 ## License
-- This project is licensed under the Apache License 2.0. See the LICENSE file for details.
+- This project is licensed under the Apache License 2.0. See the [License](#license) file for details.
 
 
 
